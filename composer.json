@@ -1,0 +1,22 @@
+{
+    "name": "thrivedata/basephp",
+    "description": "Simple, useful, utils and helpers.",
+	"homepage": "https://github.com/thrivedata/basephp",
+    "type": "library",
+    "license": "MPL-2.0",
+    "autoload": {
+        "psr-4": {
+            "ThriveData\\BasePHP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ian Timothy",
+            "email": "ian@thrivedata.it",
+			"homepage": "https://thrivedata.it"
+        }
+    ],
+    "require": {
+		"php": ">=8.0"
+	}
+}
